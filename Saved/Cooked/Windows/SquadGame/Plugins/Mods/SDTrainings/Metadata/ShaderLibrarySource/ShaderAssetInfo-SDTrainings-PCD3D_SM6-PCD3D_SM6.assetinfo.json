@@ -1,0 +1,11 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "9E590FE68D22B61A6FFD0463023777D3D919DA69",
+			"Assets": [
+				"/SDTrainings/Maps/Chora/Gameplay_Layers/SDMaterial"
+			]
+		}
+	]
+}

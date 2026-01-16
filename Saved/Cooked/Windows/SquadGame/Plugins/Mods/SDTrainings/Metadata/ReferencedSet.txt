@@ -1,0 +1,15 @@
+/SDTrainings/Gameplay/GameModes/SDT_GameMode_Skirmish
+/SDTrainings/Maps/Chora/Gameplay_Layer_Data/SDT_Chora_LayerTable
+/SDTrainings/Maps/Chora/Gameplay_Layer_Data/SDT_Chora_Skirmish_v1
+/SDTrainings/Maps/Chora/Gameplay_Layers/SDMaterial
+/SDTrainings/Maps/Chora/Gameplay_Layers/SDT_Chora_Skirmish_v1
+/SDTrainings/Maps/Chora/Gameplay_Layers/SteelDivision
+/SDTrainings/Maps/Chora/Lighting_Layers/LL_NoShadows_MidDay
+/SDTrainings/Maps/Chora/Minimap/SDT_Chora_Minimap_Skirmish_v1
+/SDTrainings/Maps/Narva/Gameplay_Layer_Data/SDT_Narva_LayerTable
+/SDTrainings/Maps/Narva/Gameplay_Layer_Data/SDT_Narva_Skirmish_v1
+/SDTrainings/Maps/Narva/Gameplay_Layers/SDT_Narva_Skirmish_v1
+/SDTrainings/Maps/Narva/Lighting_Layers/OSI_WL_ClearDay_Desert1
+/SDTrainings/Maps/Narva/Minimap/SDT_Narva_Minimap_Skirmish_v1
+/SDTrainings/Settings/Spawners/Deployable/SDT_DeployableSpawnerTable
+/SDTrainings/Settings/Spawners/Deployable/SDT_Mortar

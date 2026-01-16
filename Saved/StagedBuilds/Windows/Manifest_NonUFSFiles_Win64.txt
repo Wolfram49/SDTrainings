@@ -1,0 +1,1 @@
+SquadGame/Plugins/Mods/SDTrainings/SDTrainings.uplugin	2026-01-07T21:09:04.795Z
