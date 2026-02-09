@@ -367,13 +367,14 @@ ConfigSystem.IOS.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:180=And
 ConfigSystem.IOS.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:181=Android_Mali_4xx,Android
 ConfigSystem.IOS.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:182=Android_Mali_T8xx_No_Vulkan,Android
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.DistanceFields:0=0
-ConfigSystem.IOS.Engine:StaticMeshLODSettings:Deco:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("DecoLOD","Deco"))
-ConfigSystem.IOS.Engine:StaticMeshLODSettings:Foliage:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("FoliageLOD","Foliage"))
-ConfigSystem.IOS.Engine:StaticMeshLODSettings:HighDetail:0=(NumLODs=6,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=6,Name=LOCTEXT("HighDetailLOD","High Detail"))
-ConfigSystem.IOS.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("LargePropLOD","Large Prop"))
-ConfigSystem.IOS.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
-ConfigSystem.IOS.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
-ConfigSystem.IOS.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("VistaLOD","Vista"))
+ConfigSystem.IOS.Engine:StaticMeshLODSettings:Deco:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("DecoLOD","Deco"))
+ConfigSystem.IOS.Engine:StaticMeshLODSettings:Foliage:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=1,Name=LOCTEXT("FoliageLOD","Foliage"))
+ConfigSystem.IOS.Engine:StaticMeshLODSettings:HighDetail:0=(NumLODs=6,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=6,Name=LOCTEXT("HighDetailLOD","High Detail"))
+ConfigSystem.IOS.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("LargePropLOD","Large Prop"))
+ConfigSystem.IOS.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
+ConfigSystem.IOS.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
+ConfigSystem.IOS.Engine:StaticMeshLODSettings:Streamed:0=(bSupportLODStreaming=1,bOverrideSettings=0,Name=LOCTEXT("StreamedLOD","Streamed"))
+ConfigSystem.IOS.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=1,Name=LOCTEXT("VistaLOD","Vista"))
 ConfigSystem.Linux.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:0=WindowsEditor,Windows
 ConfigSystem.Linux.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:1=Windows,Windows
 ConfigSystem.Linux.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:2=WindowsServer,Windows
@@ -557,13 +558,14 @@ ConfigSystem.Linux.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:179=A
 ConfigSystem.Linux.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:180=Android_IntelHD_ES3,Android
 ConfigSystem.Linux.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:181=Android_Mali_4xx,Android
 ConfigSystem.Linux.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:182=Android_Mali_T8xx_No_Vulkan,Android
-ConfigSystem.Linux.Engine:StaticMeshLODSettings:Deco:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("DecoLOD","Deco"))
-ConfigSystem.Linux.Engine:StaticMeshLODSettings:Foliage:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("FoliageLOD","Foliage"))
-ConfigSystem.Linux.Engine:StaticMeshLODSettings:HighDetail:0=(NumLODs=6,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=6,Name=LOCTEXT("HighDetailLOD","High Detail"))
-ConfigSystem.Linux.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("LargePropLOD","Large Prop"))
-ConfigSystem.Linux.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
-ConfigSystem.Linux.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
-ConfigSystem.Linux.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("VistaLOD","Vista"))
+ConfigSystem.Linux.Engine:StaticMeshLODSettings:Deco:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("DecoLOD","Deco"))
+ConfigSystem.Linux.Engine:StaticMeshLODSettings:Foliage:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=1,Name=LOCTEXT("FoliageLOD","Foliage"))
+ConfigSystem.Linux.Engine:StaticMeshLODSettings:HighDetail:0=(NumLODs=6,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=6,Name=LOCTEXT("HighDetailLOD","High Detail"))
+ConfigSystem.Linux.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("LargePropLOD","Large Prop"))
+ConfigSystem.Linux.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
+ConfigSystem.Linux.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
+ConfigSystem.Linux.Engine:StaticMeshLODSettings:Streamed:0=(bSupportLODStreaming=1,bOverrideSettings=0,Name=LOCTEXT("StreamedLOD","Streamed"))
+ConfigSystem.Linux.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=1,Name=LOCTEXT("VistaLOD","Vista"))
 ConfigSystem.LinuxArm64.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:0=WindowsEditor,Windows
 ConfigSystem.LinuxArm64.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:1=Windows,Windows
 ConfigSystem.LinuxArm64.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:2=WindowsServer,Windows
@@ -747,13 +749,14 @@ ConfigSystem.LinuxArm64.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:
 ConfigSystem.LinuxArm64.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:180=Android_IntelHD_ES3,Android
 ConfigSystem.LinuxArm64.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:181=Android_Mali_4xx,Android
 ConfigSystem.LinuxArm64.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:182=Android_Mali_T8xx_No_Vulkan,Android
-ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:Deco:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("DecoLOD","Deco"))
-ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:Foliage:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("FoliageLOD","Foliage"))
-ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:HighDetail:0=(NumLODs=6,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=6,Name=LOCTEXT("HighDetailLOD","High Detail"))
-ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("LargePropLOD","Large Prop"))
-ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
-ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
-ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("VistaLOD","Vista"))
+ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:Deco:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("DecoLOD","Deco"))
+ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:Foliage:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=1,Name=LOCTEXT("FoliageLOD","Foliage"))
+ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:HighDetail:0=(NumLODs=6,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=6,Name=LOCTEXT("HighDetailLOD","High Detail"))
+ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("LargePropLOD","Large Prop"))
+ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
+ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
+ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:Streamed:0=(bSupportLODStreaming=1,bOverrideSettings=0,Name=LOCTEXT("StreamedLOD","Streamed"))
+ConfigSystem.LinuxArm64.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=1,Name=LOCTEXT("VistaLOD","Vista"))
 ConfigSystem.Mac.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:0=WindowsEditor,Windows
 ConfigSystem.Mac.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:1=Windows,Windows
 ConfigSystem.Mac.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:2=WindowsServer,Windows
@@ -937,13 +940,14 @@ ConfigSystem.Mac.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:179=And
 ConfigSystem.Mac.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:180=Android_IntelHD_ES3,Android
 ConfigSystem.Mac.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:181=Android_Mali_4xx,Android
 ConfigSystem.Mac.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:182=Android_Mali_T8xx_No_Vulkan,Android
-ConfigSystem.Mac.Engine:StaticMeshLODSettings:Deco:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("DecoLOD","Deco"))
-ConfigSystem.Mac.Engine:StaticMeshLODSettings:Foliage:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("FoliageLOD","Foliage"))
-ConfigSystem.Mac.Engine:StaticMeshLODSettings:HighDetail:0=(NumLODs=6,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=6,Name=LOCTEXT("HighDetailLOD","High Detail"))
-ConfigSystem.Mac.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("LargePropLOD","Large Prop"))
-ConfigSystem.Mac.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
-ConfigSystem.Mac.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
-ConfigSystem.Mac.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("VistaLOD","Vista"))
+ConfigSystem.Mac.Engine:StaticMeshLODSettings:Deco:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("DecoLOD","Deco"))
+ConfigSystem.Mac.Engine:StaticMeshLODSettings:Foliage:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=1,Name=LOCTEXT("FoliageLOD","Foliage"))
+ConfigSystem.Mac.Engine:StaticMeshLODSettings:HighDetail:0=(NumLODs=6,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=6,Name=LOCTEXT("HighDetailLOD","High Detail"))
+ConfigSystem.Mac.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("LargePropLOD","Large Prop"))
+ConfigSystem.Mac.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
+ConfigSystem.Mac.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
+ConfigSystem.Mac.Engine:StaticMeshLODSettings:Streamed:0=(bSupportLODStreaming=1,bOverrideSettings=0,Name=LOCTEXT("StreamedLOD","Streamed"))
+ConfigSystem.Mac.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=1,Name=LOCTEXT("VistaLOD","Vista"))
 ConfigSystem.<Editor>.../../../Engine/Config/ConsoleVariables.ini:Startup:ds.CADTranslator.Meshing.ActivateThinZoneMeshing:0=false
 ConfigSystem.<Editor>.../../../Engine/Config/ConsoleVariables.ini:Startup:ds.CADTranslator.Stitching.RemoveThinFaces:0=false
 ConfigSystem.<Editor>.../../../Engine/Config/ConsoleVariables.ini:Startup:fx.SkipVectorVMBackendOptimizations:0=1
@@ -1501,43 +1505,48 @@ ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSe
 ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:228=/Game/Maps/Yehorivka/Gameplay_Layer_Data/Yehorivka_TC_v2.Yehorivka_TC_v2
 ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:229=/Game/Maps/Yehorivka/Automation/Yehorivka_Automation.Yehorivka_Automation
 ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:230=/Game/Coop/Maps/Lobby/Layers/Jensens_Range_CoopLobby_Layer.Jensens_Range_CoopLobby_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:231=/Game/Coop/Maps/FoundersPack/Mutaha/Extraction/Mutaha_Extraction_Layer.Mutaha_Extraction_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:232=/Game/Coop/Maps/FoundersPack/Mutaha/SearchAndDestroy/Mutaha_SearchAndDestroy_Layer.Mutaha_SearchAndDestroy_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:233=/Game/Coop/Maps/FoundersPack/Mutaha/VehicleHunt/Mutaha_Target_V_Layer.Mutaha_Target_V_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:234=/Game/Coop/Maps/Mutaha/CombinedArms/Mutaha_CombinedArms_Layer.Mutaha_CombinedArms_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:235=/Game/Coop/Maps/FoundersPack/Narva/AssaultCompound/Narva_AssaultCompound_Layer.Narva_AssaultCompound_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:236=/Game/Coop/Maps/Narva/Layers/Narva_Extraction_Layer.Narva_Extraction_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:237=/Game/Coop/Maps/FoundersPack/Narva/SearchAndDestroy/Narva_SearchAndDestroy_Layer.Narva_SearchAndDestroy_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:238=/Game/Coop/Maps/FoundersPack/Narva/VehicleHunt/Narva_Target_V_Layer.Narva_Target_V_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:239=/Game/Coop/Maps/FoundersPack/Fallujah/Extraction/Fallujah_Extraction_Layer.Fallujah_Extraction_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:240=/Game/Coop/Maps/Fallujah/Layers/Fallujah_SearchAndDestroy_Layer.Fallujah_SearchAndDestroy_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:241=/Game/Coop/Maps/FoundersPack/Fallujah/VehicleHunt/Fallujah_Target_V_Layer.Fallujah_Target_V_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:242=/Game/Coop/Maps/FoundersPack/Harju/CombinedArms/Harju_CombinedArms_Layer.Harju_CombinedArms_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:243=/Game/Coop/Maps/Sumari/Layers/Sumari_DestroyWreckLayer.Sumari_DestroyWreckLayer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:244=/Al_Basrah/Maps/Coop/Layers/AlBasrah_CoopTemplate_Layer.AlBasrah_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:245=/Game/Maps/Anvil/Coop/Layers/Anvil_CoopTemplate_Layer.Anvil_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:246=/BlackCoast/Maps/Coop/Layers/BlackCoast_CoopTemplate_Layer.BlackCoast_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:247=/Game/Maps/Chora/Coop/Layers/Chora_CoopTemplate_Layer.Chora_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:248=/Game/Maps/Fallujah_City/Coop/Layers/Fallujah_CoopTemplate_Layer.Fallujah_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:249=/Game/Maps/Fools_Road/Coop/Layers/FoolsRoad_CoopTemplate_Layer.FoolsRoad_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:250=/Game/Maps/Goose_Bay/Coop/Layers/GooseBay_CoopTemplate_Layer.GooseBay_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:251=/Game/Maps/Gorodok/Coop/Layers/Gorodok_CoopTemplate_Layer.Gorodok_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:252=/Harju/Maps/Coop/Layers/Harju_CoopTemplate_Layer.Harju_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:253=/Game/Maps/Kamdesh_Highlands/Coop/Layers/Kamdesh_CoopTemplate_Layer.Kamdesh_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:254=/Game/Maps/Kohat/Coop/Layers/Kohat_CoopTemplate_Layer.Kohat_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:255=/Game/Maps/Kokan_Valley/Coop/Layers/Kokan_CoopTemplate_Layer.Kokan_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:256=/Game/Maps/Lashkar_Valley/Coop/Layers/Lashkar_CoopTemplate_Layer.Lashkar_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:257=/Game/Maps/Logar_Valley/Coop/Layers/Logar_CoopTemplate_Layer.Logar_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:258=/Game/Maps/Manicouagan/Coop/Layers/Manicouagan_CoopTemplate_Layer.Manicouagan_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:259=/Game/Maps/Mestia_Green/Coop/Layers/Mestia_CoopTemplate_Layer.Mestia_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:260=/Game/Maps/Mutaha/Coop/Layers/Mutaha_CoopTemplate_Layer.Mutaha_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:261=/Game/Maps/Narva/Coop/Layers/Narva_CoopTemplate_Layer.Narva_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:262=/Game/Maps/PacificProvingGrounds/Coop/Layers/PacificProvingGrounds_CoopTemplate_Layer.PacificProvingGrounds_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:263=/SanxianIslands/Maps/Coop/Layers/Sanxian_CoopTemplate_Layer.Sanxian_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:264=/Game/Maps/Skorpo/Coop/Layers/Skorpo_CoopTemplate_Layer.Skorpo_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:265=/Game/Maps/Sumari/Coop/Layers/Sumari_CoopTemplate_Layer.Sumari_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:266=/Game/Maps/Tallil_Outskirts/Coop/Layers/Tallil_CoopTemplate_Layer.Tallil_CoopTemplate_Layer
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:267=/Game/Maps/Yehorivka/Coop/Layers/Yehorivka_CoopTemplate_Layer.Yehorivka_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:231=/Game/Coop/Maps/FreeMissions/Sumari_FT_01/Sumari_FT_01_Layer.Sumari_FT_01_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:232=/Game/Coop/Maps/FreeMissions/Fallujah_FT_01/Fallujah_FT_01_Layer.Fallujah_FT_01_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:233=/Game/Coop/Maps/FreeMissions/Mutaha_FT_04/Mutaha_FT_04_Layer.Mutaha_FT_04_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:234=/Game/Coop/Maps/FreeMissions/Narva_FT_02/Narva_FT_02_Layer.Narva_FT_02_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:235=/Game/Coop/Maps/FreeMissions/AlBasrah_FT_01/AlBasrah_FT_01_Layer.AlBasrah_FT_01_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:236=/Game/Coop/Maps/FoundersPack/Fallujah_FT_02/Fallujah_FT_02_Layer.Fallujah_FT_02_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:237=/Game/Coop/Maps/FoundersPack/Fallujah_FT_03/Fallujah_FT_03_Layer.Fallujah_FT_03_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:238=/Game/Coop/Maps/FoundersPack/Harju_FT_01/Harju_FT_01_Layer.Harju_FT_01_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:239=/Game/Coop/Maps/FoundersPack/Harju_FT_02/Harju_FT_02_Layer.Harju_FT_02_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:240=/Game/Coop/Maps/FoundersPack/Mutaha_FT_01/Mutaha_FT_01_Layer.Mutaha_FT_01_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:241=/Game/Coop/Maps/FoundersPack/Mutaha_FT_02/Mutaha_FT_02_Layer.Mutaha_FT_02_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:242=/Game/Coop/Maps/FoundersPack/Mutaha_FT_03/Mutaha_FT_03_Layer.Mutaha_FT_03_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:243=/Game/Coop/Maps/FoundersPack/Narva_FT_01/Narva_FT_01_Layer.Narva_FT_01_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:244=/Game/Coop/Maps/FoundersPack/Narva_FT_03/Narva_FT_03_Layer.Narva_FT_03_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:245=/Game/Coop/Maps/FoundersPack/Narva_FT_04/Narva_FT_04_Layer.Narva_FT_04_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:246=/Game/Coop/Maps/Experimental/Gorodok_FT_01/Gorodok_FT_01_Layer.Gorodok_FT_01_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:247=/Game/Coop/Maps/Experimental/Fallujah_FT_04/Fallujah_FT_04_Layer.Fallujah_FT_04_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:248=/Game/Coop/Maps/Experimental/AlBasrah_FT_02/Layers/AlBasrah_FT_02_Layer.AlBasrah_FT_02_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:249=/Al_Basrah/Maps/Coop/Layers/AlBasrah_CoopTemplate_Layer.AlBasrah_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:250=/Game/Maps/Anvil/Coop/Layers/Anvil_CoopTemplate_Layer.Anvil_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:251=/BlackCoast/Maps/Coop/Layers/BlackCoast_CoopTemplate_Layer.BlackCoast_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:252=/Game/Maps/Chora/Coop/Layers/Chora_CoopTemplate_Layer.Chora_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:253=/Game/Maps/Fallujah_City/Coop/Layers/Fallujah_CoopTemplate_Layer.Fallujah_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:254=/Game/Maps/Fools_Road/Coop/Layers/FoolsRoad_CoopTemplate_Layer.FoolsRoad_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:255=/Game/Maps/Goose_Bay/Coop/Layers/GooseBay_CoopTemplate_Layer.GooseBay_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:256=/Game/Maps/Gorodok/Coop/Layers/Gorodok_CoopTemplate_Layer.Gorodok_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:257=/Harju/Maps/Coop/Layers/Harju_CoopTemplate_Layer.Harju_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:258=/Game/Maps/Kamdesh_Highlands/Coop/Layers/Kamdesh_CoopTemplate_Layer.Kamdesh_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:259=/Game/Maps/Kohat/Coop/Layers/Kohat_CoopTemplate_Layer.Kohat_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:260=/Game/Maps/Kokan_Valley/Coop/Layers/Kokan_CoopTemplate_Layer.Kokan_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:261=/Game/Maps/Lashkar_Valley/Coop/Layers/Lashkar_CoopTemplate_Layer.Lashkar_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:262=/Game/Maps/Logar_Valley/Coop/Layers/Logar_CoopTemplate_Layer.Logar_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:263=/Game/Maps/Manicouagan/Coop/Layers/Manicouagan_CoopTemplate_Layer.Manicouagan_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:264=/Game/Maps/Mestia_Green/Coop/Layers/Mestia_CoopTemplate_Layer.Mestia_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:265=/Game/Maps/Mutaha/Coop/Layers/Mutaha_CoopTemplate_Layer.Mutaha_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:266=/Game/Maps/Narva/Coop/Layers/Narva_CoopTemplate_Layer.Narva_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:267=/Game/Maps/PacificProvingGrounds/Coop/Layers/PacificProvingGrounds_CoopTemplate_Layer.PacificProvingGrounds_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:268=/SanxianIslands/Maps/Coop/Layers/Sanxian_CoopTemplate_Layer.Sanxian_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:269=/Game/Maps/Skorpo/Coop/Layers/Skorpo_CoopTemplate_Layer.Skorpo_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:270=/Game/Maps/Sumari/Coop/Layers/Sumari_CoopTemplate_Layer.Sumari_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:271=/Game/Maps/Tallil_Outskirts/Coop/Layers/Tallil_CoopTemplate_Layer.Tallil_CoopTemplate_Layer
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LayersToCook:272=/Game/Maps/Yehorivka/Coop/Layers/Yehorivka_CoopTemplate_Layer.Yehorivka_CoopTemplate_Layer
 ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LevelSharedChunkId:0=4000
 ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LevelsToCook:0=/Al_Basrah/Maps/AlBasrah_Level.AlBasrah_Level
 ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/ChunkSettings.ini:/Script/Squad.SQChunkSettings:LevelsToCook:1=/Game/Maps/Anvil/Anvil.Anvil
@@ -1671,11 +1680,12 @@ ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.
 ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/SquadCoopEditor.SQCoopEditorSettings:CoopToolboxActors:3=/Script/NavigationSystem.NavModifierVolume
 ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/SquadCoopEditor.SQCoopEditorSettings:CoopToolboxActors:4=/Script/Squad.SQTeamSpawnGroup
 ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/SquadCoopEditor.SQCoopEditorSettings:CoopToolboxActors:5=/Game/Coop/Blueprints/MapMarkers/PrespawnedMapMarker.PrespawnedMapMarker_C
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/SquadCoopEditor.SQCoopEditorSettings:CoopToolboxActors:6=/Game/Coop/Blueprints/Gamemode/MissionObjectives/MissionCompleteVolume.MissionCompleteVolume_C
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/SquadCoopEditor.SQCoopEditorSettings:CoopToolboxActors:7=/Game/Coop/Blueprints/Gamemode/MissionObjectives/CriticalRadius.CriticalRadius_C
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/SquadCoopEditor.SQCoopEditorSettings:CoopToolboxActors:8=/Game/Coop/Frontline/Frontline.Frontline_C
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/SquadCoopEditor.SQCoopEditorSettings:CoopToolboxActors:9=/Game/Coop/Blueprints/Spawning/BP_BotTriggerSpawner.BP_BotTriggerSpawner_C
-ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/SquadCoopEditor.SQCoopEditorSettings:CoopToolboxActors:10=/Game/Gameplay/BP_VehicleSpawner.BP_VehicleSpawner_C
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/SquadCoopEditor.SQCoopEditorSettings:CoopToolboxActors:6=/Game/Coop/Blueprints/MissionCompleteVolume.MissionCompleteVolume_C
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/SquadCoopEditor.SQCoopEditorSettings:CoopToolboxActors:7=/Game/Coop/Blueprints/MissionHotZoneVolume.MissionHotZoneVolume_C
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/SquadCoopEditor.SQCoopEditorSettings:CoopToolboxActors:8=/Game/Coop/Blueprints/CriticalRadius.CriticalRadius_C
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/SquadCoopEditor.SQCoopEditorSettings:CoopToolboxActors:9=/Game/Coop/Frontline/Frontline.Frontline_C
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/SquadCoopEditor.SQCoopEditorSettings:CoopToolboxActors:10=/Game/Coop/Blueprints/Spawning/BP_BotTriggerSpawner.BP_BotTriggerSpawner_C
+ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/SquadCoopEditor.SQCoopEditorSettings:CoopToolboxActors:11=/Game/Gameplay/BP_VehicleSpawner.BP_VehicleSpawner_C
 ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/SquadEditor.SQLayerAutomationCommandlet:ExcludedLayerGroups:0=(("JensensRange", "// Training layers are not intended for regular servers."), ("PacificProvingGrounds.*-.*", "// Training layers are not intended for regular servers."), ("Tutorial", "// Tutorial layers are not meant to be run on servers."), ("_TA_", "// Track Attack layers are small-scale gameplay layers for a tournament gamemode, not meant for regular servers."))
 ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/TextureUtilitiesCommon.TextureImportSettings:CompressedFormatForFloatTextures:0=HDRCompressed_BC6
 ConfigSystem.<Editor>.D::::/SquadEditor/Squad/Saved/Config/WindowsEditor/Editor.ini:/Script/UMGEditor.UMGEditorProjectSettings:DebugResolutions:0=(Width=3840,Height=2160,Description="",Color=(R=0.745404,G=0.904661,B=1.000000,A=1.000000))
@@ -3824,6 +3834,9 @@ ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:a.Budget.ReducedWor
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:a.Budget.ReducedWorkThrottleMinInFrames:0=8
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:a.Budget.StateChangeThrottleInFrames:0=60
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:a.Budget.WorkUnitSmoothingSpeed:0=4
+ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:bDiscardSkeletalMeshOptionalLODs:0=(Default=False,PerPlatform=())
+ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:bMeshStreaming:0=(Default=True,PerPlatform=(("XSX", True),("PS5", True),("Windows", True),("Win64", True)))
+ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:bStreamSkeletalMeshLODs:0=(Default=True,PerPlatform=(("XSX", True),("PS5", True),("Windows", True),("Win64", True)))
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:MaxSkinBones:0=(Default=65536,PerPlatform=(("Mobile", 256)))
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.AllowGlobalClipPlane:0=True
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.AllowStaticLighting:0=False
@@ -3843,6 +3856,7 @@ ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.Mo
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=3
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod.Force:0=True
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.EarlyZPassOnlyMaterialMasking:0=True
+ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.FreeSkeletalMeshBuffers:0=0 ;keep this disabled because it causes a crash with weapon skins using mesh merging (Dec-1-2025)
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.GenerateMeshDistanceFields:0=True
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.GPUCrashDebugging:0=false
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.HZBOcclusion:0=1
@@ -3850,6 +3864,7 @@ ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.Lumen.HardwareRay
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.Lumen.HardwareRayTracing.LightingMode:0=0
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.Lumen.TraceMeshSDFs:0=1
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.Lumen.TranslucencyReflections.FrontLayer.EnableForProject:0=False
+ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.MeshStreaming:0=1
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.MinScreenRadiusForCSMDepth:0=0.200000
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.MinScreenRadiusForDepthPrepass:0=0.200000
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.MinScreenRadiusForLights:0=0.200000
@@ -3880,6 +3895,7 @@ ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.SmartGI.FinalGath
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.SmartGI.FinalGather.Temporal.DistanceThreshold:0=0.01
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.SmartGI.VoxelLighting.VoxelizeGBufferMinClipmap:0=0
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.Streaming.MaxTempMemoryAllowed:0=125
+ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.Streaming.PoolSizeForMeshes:0=150 ;ruslan.holubenko - SQ-20409 - dedicated mesh streaming pool
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.TemporalAA.Upsampling:0=1
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.TemporalAACurrentFrameWeight:0=0.1
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.TemporalAAFilterSize:0=0.2
@@ -4574,7 +4590,7 @@ ConfigSystem.<Editor>.Engine:WebSockets.LibWebSockets:MaxHttpHeaderData:0=32768
 ConfigSystem.<Editor>.Engine:WebSockets.LibWebSockets:PingPongInterval:0=0
 ConfigSystem.<Editor>.Engine:WebSockets.LibWebSockets:ThreadMinimumSleepTimeInSeconds:0=0.0
 ConfigSystem.<Editor>.Engine:WebSockets.LibWebSockets:ThreadStackSize:0=131072
-ConfigSystem.<Editor>.Engine:WebSockets.LibWebSockets:ThreadTargetFrameTimeInSeconds:0=0.0333
+ConfigSystem.<Editor>.Engine:WebSockets.LibWebSockets:ThreadTargetFrameTimeInSeconds:0=0.001
 ConfigSystem.<Editor>.Engine:Zen:AutoLaunch:0=true
 ConfigSystem.<Editor>.Engine:Zen.AutoLaunch:AllowRemoteNetworkService:0=false
 ConfigSystem.<Editor>.Engine:Zen.AutoLaunch:ExtraArgs:0=--http asio --gc-cache-duration-seconds 1209600 --gc-interval-seconds 21600 --gc-low-diskspace-threshold 2147483648 --quiet
@@ -4659,7 +4675,7 @@ ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:Licensi
 ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:PrivacyPolicy:0=
 ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectID:0=D4ABC716446C8366703DFEA2E34B53AF
 ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectName:0=Squad
-ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=v10.1.0.533916.68
+ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=v10.2.0.546763.1316
 ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 ConfigSystem.<Editor>.Game:/Script/LiveLink.LiveLinkSettings:DefaultRoleSettings:0=(Role=Class'/Script/LiveLink.LiveLinkAnimationRole', FrameInterpolationProcessor=Class'/Script/LiveLink.LiveLinkAnimationFrameInterpolationProcessor')
 ConfigSystem.<Editor>.Game:/Script/LiveLink.LiveLinkSettings:FrameInterpolationProcessor:0=Class'/Script/LiveLink.LiveLinkBasicFrameInterpolationProcessor'
@@ -4676,7 +4692,7 @@ ConfigSystem.<Editor>.Game:/Script/ODKClans_Nakama.ODKNakamaConfig:bClanChatEnab
 ConfigSystem.<Editor>.Game:/Script/ODKClans_Nakama.ODKNakamaConfig:bClanWalletEnabled:0=false
 ConfigSystem.<Editor>.Game:/Script/ODKClans_Nakama.ODKNakamaConfig:bDebugEnabled:0=true
 ConfigSystem.<Editor>.Game:/Script/ODKClans_Nakama.ODKNakamaConfig:bGlobalStatsEnabled:0=false
-ConfigSystem.<Editor>.Game:/Script/ODKClans_Nakama.ODKNakamaConfig:ServerConfigType:0=Release
+ConfigSystem.<Editor>.Game:/Script/ODKClans_Nakama.ODKNakamaConfig:ServerConfigType:0=Dev
 ConfigSystem.<Editor>.Game:/Script/ODKClans_Nakama.ODKNakamaServerConfig_Local:bUseSSL:0=false
 ConfigSystem.<Editor>.Game:/Script/ODKClans_Nakama.ODKNakamaServerConfig_Local:Host:0=127.0.0.1
 ConfigSystem.<Editor>.Game:/Script/ODKClans_Nakama.ODKNakamaServerConfig_Local:Port:0=7350
@@ -5951,13 +5967,14 @@ ConfigSystem.Windows.Engine:PCD3D_SM6:BindlessSamplers:0=RayTracingOnly
 ConfigSystem.Windows.Engine:ShaderCompiler:r.Shaders.AllowUniqueSymbols:0=0
 ConfigSystem.Windows.Engine:ShaderCompiler:r.Shaders.GenerateSymbols:0=0
 ConfigSystem.Windows.Engine:ShaderCompiler:r.Shaders.Symbols:0=0
-ConfigSystem.Windows.Engine:StaticMeshLODSettings:Deco:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("DecoLOD","Deco"))
-ConfigSystem.Windows.Engine:StaticMeshLODSettings:Foliage:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("FoliageLOD","Foliage"))
-ConfigSystem.Windows.Engine:StaticMeshLODSettings:HighDetail:0=(NumLODs=6,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=6,Name=LOCTEXT("HighDetailLOD","High Detail"))
-ConfigSystem.Windows.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("LargePropLOD","Large Prop"))
-ConfigSystem.Windows.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
-ConfigSystem.Windows.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
-ConfigSystem.Windows.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("VistaLOD","Vista"))
+ConfigSystem.Windows.Engine:StaticMeshLODSettings:Deco:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("DecoLOD","Deco"))
+ConfigSystem.Windows.Engine:StaticMeshLODSettings:Foliage:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=1,Name=LOCTEXT("FoliageLOD","Foliage"))
+ConfigSystem.Windows.Engine:StaticMeshLODSettings:HighDetail:0=(NumLODs=6,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=6,Name=LOCTEXT("HighDetailLOD","High Detail"))
+ConfigSystem.Windows.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("LargePropLOD","Large Prop"))
+ConfigSystem.Windows.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
+ConfigSystem.Windows.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=1,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
+ConfigSystem.Windows.Engine:StaticMeshLODSettings:Streamed:0=(bSupportLODStreaming=1,bOverrideSettings=0,Name=LOCTEXT("StreamedLOD","Streamed"))
+ConfigSystem.Windows.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=1,Name=LOCTEXT("VistaLOD","Vista"))
 ConfigSystem.Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MaxChunkSize:0=0
 LocalIniFile.Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bBuildForES31:0=true
 LocalIniFile.Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bSupportsVulkan:0=true

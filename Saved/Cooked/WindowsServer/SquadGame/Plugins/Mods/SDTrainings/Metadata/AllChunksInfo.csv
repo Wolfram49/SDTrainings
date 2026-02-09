@@ -10,7 +10,7 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/SDTrainings/Maps/Chora/Lighting_Layers/LL_NoShadows_MidDay,/Script/Engine.World,,26798,None
 0,/SDTrainings/Maps/Chora/Minimap/SDT_Chora_Minimap_Skirmish_v1,/Script/Engine.Texture2D,,1143,None
 0,/SDTrainings/Maps/Narva/Gameplay_Layer_Data/SDT_Narva_LayerTable,/Script/Engine.DataTable,,1209,None
-0,/SDTrainings/Maps/Narva/Gameplay_Layer_Data/SDT_Narva_Skirmish_v1,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,6999,None
+0,/SDTrainings/Maps/Narva/Gameplay_Layer_Data/SDT_Narva_Skirmish_v1_asset,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,7047,None
 0,/SDTrainings/Maps/Narva/Gameplay_Layers/SDT_Narva_Skirmish_v1,/Script/Engine.World,,4456497,None
 0,/SDTrainings/Maps/Narva/Gameplay_Layers/SDT_Narva_Skirmish_v1,/Script/Engine.BlueprintGeneratedClass,,4456497,None
 0,/SDTrainings/Maps/Narva/Lighting_Layers/OSI_WL_ClearDay_Desert1,/Script/Engine.World,,59418,None

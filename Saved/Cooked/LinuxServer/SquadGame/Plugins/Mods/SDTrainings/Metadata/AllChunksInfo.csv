@@ -1,0 +1,19 @@
+ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
+0,/SDTrainings/Gameplay/GameModes/SDT_GameMode_Skirmish,/Script/Engine.Blueprint,,5363,None
+0,/SDTrainings/Gameplay/GameModes/SDT_GameMode_Skirmish,/Script/Engine.BlueprintGeneratedClass,,5363,None
+0,/SDTrainings/Maps/Chora/Gameplay_Layer_Data/SDT_Chora_LayerTable,/Script/Engine.DataTable,,1213,None
+0,/SDTrainings/Maps/Chora/Gameplay_Layer_Data/SDT_Chora_Skirmish_v1,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,7549,None
+0,/SDTrainings/Maps/Chora/Gameplay_Layers/SDMaterial,/Script/Engine.Material,,5146,None
+0,/SDTrainings/Maps/Chora/Gameplay_Layers/SDT_Chora_Skirmish_v1,/Script/Engine.World,,4482359,None
+0,/SDTrainings/Maps/Chora/Gameplay_Layers/SDT_Chora_Skirmish_v1,/Script/Engine.BlueprintGeneratedClass,,4482359,None
+0,/SDTrainings/Maps/Chora/Gameplay_Layers/SteelDivision,/Script/Engine.Texture2D,,1037,None
+0,/SDTrainings/Maps/Chora/Lighting_Layers/LL_NoShadows_MidDay,/Script/Engine.World,,26798,None
+0,/SDTrainings/Maps/Chora/Minimap/SDT_Chora_Minimap_Skirmish_v1,/Script/Engine.Texture2D,,1143,None
+0,/SDTrainings/Maps/Narva/Gameplay_Layer_Data/SDT_Narva_LayerTable,/Script/Engine.DataTable,,1209,None
+0,/SDTrainings/Maps/Narva/Gameplay_Layer_Data/SDT_Narva_Skirmish_v1_asset,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,7047,None
+0,/SDTrainings/Maps/Narva/Gameplay_Layers/SDT_Narva_Skirmish_v1,/Script/Engine.World,,4456497,None
+0,/SDTrainings/Maps/Narva/Gameplay_Layers/SDT_Narva_Skirmish_v1,/Script/Engine.BlueprintGeneratedClass,,4456497,None
+0,/SDTrainings/Maps/Narva/Lighting_Layers/OSI_WL_ClearDay_Desert1,/Script/Engine.World,,59418,None
+0,/SDTrainings/Maps/Narva/Minimap/SDT_Narva_Minimap_Skirmish_v1,/Script/Engine.Texture2D,,1143,None
+0,/SDTrainings/Settings/Spawners/Deployable/SDT_DeployableSpawnerTable,/Script/Engine.DataTable,,1490,None
+0,/SDTrainings/Settings/Spawners/Deployable/SDT_Mortar,/Game/Settings/Spawners/Deployable/BP_SQDeployableSpawnerSettings.BP_SQDeployableSpawnerSettings_C,,1557,None
