@@ -1,3 +1,4 @@
+..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Gameplay\GameModes\SDT_GameMode_Logar
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Gameplay\GameModes\SDT_GameMode_Skirmish
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Chora\Gameplay_Layer_Data\SDT_Chora_LayerTable
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Chora\Gameplay_Layer_Data\SDT_Chora_Skirmish_v1
@@ -6,6 +7,13 @@
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Chora\Gameplay_Layers\SteelDivision
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Chora\Lighting_Layers\LL_NoShadows_MidDay
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Chora\Minimap\SDT_Chora_Minimap_Skirmish_v1
+..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Logar\Gameplay_Layer_Data\SDT_Logar_LayerTable
+..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Logar\Gameplay_Layer_Data\SDT_Logar_Skirmish_v1
+..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Logar\Gameplay_Layers\SDT_Logar_Skirmish_v1
+..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Logar\Lighting_Layers\SDT_WL_CentralAsia_Summer_Day_Clear_01
+..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Logar\Minimap\pass
+..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Logar\Minimap\passMat
+..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Logar\Minimap\SDT_Logar_Skirmish_v1_Minimap_Composite110
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Narva\Gameplay_Layer_Data\SDT_Narva_LayerTable
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Narva\Gameplay_Layer_Data\SDT_Narva_Skirmish_v1_asset
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Narva\Gameplay_Layers\SDT_Narva_Skirmish_v1

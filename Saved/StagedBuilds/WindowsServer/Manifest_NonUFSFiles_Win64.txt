@@ -1,1 +1,1 @@
-SquadGame/Plugins/Mods/SDTrainings/SDTrainings.uplugin	2026-01-16T01:41:25.283Z
+SquadGame/Plugins/Mods/SDTrainings/SDTrainings.uplugin	2026-02-13T20:33:09.695Z
