@@ -7,6 +7,7 @@
 /SDTrainings/Maps/Chora/Gameplay_Layers/SteelDivision
 /SDTrainings/Maps/Chora/Lighting_Layers/LL_NoShadows_MidDay
 /SDTrainings/Maps/Chora/Minimap/SDT_Chora_Minimap_Skirmish_v1
+/SDTrainings/Maps/Logar/Gameplay_Layer_Data/SDT_Logar_GameModeTable
 /SDTrainings/Maps/Logar/Gameplay_Layer_Data/SDT_Logar_LayerTable
 /SDTrainings/Maps/Logar/Gameplay_Layer_Data/SDT_Logar_Skirmish_v1
 /SDTrainings/Maps/Logar/Gameplay_Layers/SDT_Logar_Skirmish_v1

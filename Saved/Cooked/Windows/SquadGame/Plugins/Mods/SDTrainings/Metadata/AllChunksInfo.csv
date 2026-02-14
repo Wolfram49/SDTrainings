@@ -11,11 +11,12 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/SDTrainings/Maps/Chora/Gameplay_Layers/SteelDivision,/Script/Engine.Texture2D,,640911,None
 0,/SDTrainings/Maps/Chora/Lighting_Layers/LL_NoShadows_MidDay,/Script/Engine.World,,12042,None
 0,/SDTrainings/Maps/Chora/Minimap/SDT_Chora_Minimap_Skirmish_v1,/Script/Engine.Texture2D,,8389551,None
+0,/SDTrainings/Maps/Logar/Gameplay_Layer_Data/SDT_Logar_GameModeTable,/Script/Engine.DataTable,,1956,None
 0,/SDTrainings/Maps/Logar/Gameplay_Layer_Data/SDT_Logar_LayerTable,/Script/Engine.DataTable,,1004,None
-0,/SDTrainings/Maps/Logar/Gameplay_Layer_Data/SDT_Logar_Skirmish_v1,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,3551,None
+0,/SDTrainings/Maps/Logar/Gameplay_Layer_Data/SDT_Logar_Skirmish_v1,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,3602,None
 0,/SDTrainings/Maps/Logar/Gameplay_Layers/SDT_Logar_Skirmish_v1,/Script/Engine.World,,63884,None
 0,/SDTrainings/Maps/Logar/Gameplay_Layers/SDT_Logar_Skirmish_v1,/Script/Engine.BlueprintGeneratedClass,,63884,None
-0,/SDTrainings/Maps/Logar/Lighting_Layers/SDT_WL_CentralAsia_Summer_Day_Clear_01,/Script/Engine.World,,30917,None
+0,/SDTrainings/Maps/Logar/Lighting_Layers/SDT_WL_CentralAsia_Summer_Day_Clear_01,/Script/Engine.World,,30981,None
 0,/SDTrainings/Maps/Logar/Minimap/pass,/Script/Engine.Texture2D,,1414479,None
 0,/SDTrainings/Maps/Logar/Minimap/passMat,/Script/Engine.Material,,8237,None
 0,/SDTrainings/Maps/Logar/Minimap/SDT_Logar_Skirmish_v1_Minimap_Composite110,/Script/Engine.Texture2D,,16778195,None
@@ -23,7 +24,7 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/SDTrainings/Maps/Narva/Gameplay_Layer_Data/SDT_Narva_Skirmish_v1_asset,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,3472,None
 0,/SDTrainings/Maps/Narva/Gameplay_Layers/SDT_Narva_Skirmish_v1,/Script/Engine.World,,4306904,None
 0,/SDTrainings/Maps/Narva/Gameplay_Layers/SDT_Narva_Skirmish_v1,/Script/Engine.BlueprintGeneratedClass,,4306904,None
-0,/SDTrainings/Maps/Narva/Lighting_Layers/OSI_WL_ClearDay_Desert1,/Script/Engine.World,,26748,None
+0,/SDTrainings/Maps/Narva/Lighting_Layers/OSI_WL_ClearDay_Desert1,/Script/Engine.World,,26635,None
 0,/SDTrainings/Maps/Narva/Minimap/SDT_Narva_Minimap_Skirmish_v1,/Script/Engine.Texture2D,,8389551,None
 0,/SDTrainings/Settings/Spawners/Deployable/SDT_DeployableSpawnerTable,/Script/Engine.DataTable,,1204,None
 0,/SDTrainings/Settings/Spawners/Deployable/SDT_Mortar,/Game/Settings/Spawners/Deployable/BP_SQDeployableSpawnerSettings.BP_SQDeployableSpawnerSettings_C,,1050,None
