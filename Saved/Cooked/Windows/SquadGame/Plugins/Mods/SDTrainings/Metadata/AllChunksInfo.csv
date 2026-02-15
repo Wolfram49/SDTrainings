@@ -14,12 +14,12 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/SDTrainings/Maps/Logar/Gameplay_Layer_Data/SDT_Logar_GameModeTable,/Script/Engine.DataTable,,1956,None
 0,/SDTrainings/Maps/Logar/Gameplay_Layer_Data/SDT_Logar_LayerTable,/Script/Engine.DataTable,,1004,None
 0,/SDTrainings/Maps/Logar/Gameplay_Layer_Data/SDT_Logar_Skirmish_v1,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,3602,None
-0,/SDTrainings/Maps/Logar/Gameplay_Layers/SDT_Logar_Skirmish_v1,/Script/Engine.World,,63884,None
-0,/SDTrainings/Maps/Logar/Gameplay_Layers/SDT_Logar_Skirmish_v1,/Script/Engine.BlueprintGeneratedClass,,63884,None
+0,/SDTrainings/Maps/Logar/Gameplay_Layers/SDT_Logar_Skirmish_v1,/Script/Engine.World,,63902,None
+0,/SDTrainings/Maps/Logar/Gameplay_Layers/SDT_Logar_Skirmish_v1,/Script/Engine.BlueprintGeneratedClass,,63902,None
 0,/SDTrainings/Maps/Logar/Lighting_Layers/SDT_WL_CentralAsia_Summer_Day_Clear_01,/Script/Engine.World,,30917,None
-0,/SDTrainings/Maps/Logar/Minimap/pass,/Script/Engine.Texture2D,,1414479,None
-0,/SDTrainings/Maps/Logar/Minimap/passMat,/Script/Engine.Material,,8237,None
+0,/SDTrainings/Maps/Logar/Minimap/passMat,/Script/Engine.Material,,8214,None
 0,/SDTrainings/Maps/Logar/Minimap/SDT_Logar_Skirmish_v1_Minimap_Composite110,/Script/Engine.Texture2D,,16778195,None
+0,/SDTrainings/Maps/Logar/Minimap/sign,/Script/Engine.Texture2D,,1399603,None
 0,/SDTrainings/Maps/Narva/Gameplay_Layer_Data/SDT_Narva_LayerTable,/Script/Engine.DataTable,,1000,None
 0,/SDTrainings/Maps/Narva/Gameplay_Layer_Data/SDT_Narva_Skirmish_v1_asset,/Game/Settings/Maps/BP_SQLayer.BP_SQLayer_C,,3472,None
 0,/SDTrainings/Maps/Narva/Gameplay_Layers/SDT_Narva_Skirmish_v1,/Script/Engine.World,,4306904,None

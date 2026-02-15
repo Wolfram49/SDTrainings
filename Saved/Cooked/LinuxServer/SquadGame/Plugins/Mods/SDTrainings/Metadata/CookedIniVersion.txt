@@ -5414,9 +5414,9 @@ ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCom
 ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:184=(Command="ShowDebug EnhancedInput",Desc="Displays debug information about the current state of any Enhanced Input Mapping Contexts")
 ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:185=(Command="ShowDebug WorldSubsystemInput",Desc="Displays debug information about the current state of any Enhanced Input Mapping Contexts applied to the Enhanced Input world subsystem.")
 ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:186=(Command="ShowDebug InputSettings",Desc="Displays debug information any user input settings, such as player mappable keys.")
-ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:187=(Command="ShowDebug DeviceProperty",Desc="Display debug information about currently active Input Device Properties")
-ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:188=(Command="ShowDebug Devices",Desc="Displays all current Platform Users and their Input Devices.")
-ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:189=(Command="ShowDebug AbilitySystem",Desc="Toggles debug information about the Gameplay Ability System")
+ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:187=(Command="ShowDebug AbilitySystem",Desc="Toggles debug information about the Gameplay Ability System")
+ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:188=(Command="ShowDebug DeviceProperty",Desc="Display debug information about currently active Input Device Properties")
+ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:189=(Command="ShowDebug Devices",Desc="Displays all current Platform Users and their Input Devices.")
 ConfigSystem.<Editor>.Input:/Script/EngineSettings.ConsoleSettings:MaxScrollbackSize:0=1024
 ConfigSystem.<Editor>.Input:InputPlatformSettings_Windows InputPlatformSettings:HardwareDevices:0=(InputClassName="WindowsApplication",HardwareDeviceIdentifier="KBM",PrimaryDeviceType=KeyboardAndMouse,SupportedFeaturesMask=3)
 ConfigSystem.<Editor>.Input:InputPlatformSettings_Windows InputPlatformSettings:HardwareDevices:1=(InputClassName="XInputInterface",HardwareDeviceIdentifier="XInputController",PrimaryDeviceType=Gamepad,SupportedFeaturesMask=260)
