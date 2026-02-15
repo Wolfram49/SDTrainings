@@ -12,9 +12,9 @@
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Logar\Gameplay_Layer_Data\SDT_Logar_Skirmish_v1
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Logar\Gameplay_Layers\SDT_Logar_Skirmish_v1
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Logar\Lighting_Layers\SDT_WL_CentralAsia_Summer_Day_Clear_01
-..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Logar\Minimap\pass
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Logar\Minimap\passMat
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Logar\Minimap\SDT_Logar_Skirmish_v1_Minimap_Composite110
+..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Logar\Minimap\sign
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Narva\Gameplay_Layer_Data\SDT_Narva_LayerTable
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Narva\Gameplay_Layer_Data\SDT_Narva_Skirmish_v1_asset
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\LinuxServer\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Narva\Gameplay_Layers\SDT_Narva_Skirmish_v1

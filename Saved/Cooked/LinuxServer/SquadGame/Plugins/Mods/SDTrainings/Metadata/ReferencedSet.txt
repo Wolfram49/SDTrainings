@@ -12,9 +12,9 @@
 /SDTrainings/Maps/Logar/Gameplay_Layer_Data/SDT_Logar_Skirmish_v1
 /SDTrainings/Maps/Logar/Gameplay_Layers/SDT_Logar_Skirmish_v1
 /SDTrainings/Maps/Logar/Lighting_Layers/SDT_WL_CentralAsia_Summer_Day_Clear_01
-/SDTrainings/Maps/Logar/Minimap/pass
 /SDTrainings/Maps/Logar/Minimap/passMat
 /SDTrainings/Maps/Logar/Minimap/SDT_Logar_Skirmish_v1_Minimap_Composite110
+/SDTrainings/Maps/Logar/Minimap/sign
 /SDTrainings/Maps/Narva/Gameplay_Layer_Data/SDT_Narva_LayerTable
 /SDTrainings/Maps/Narva/Gameplay_Layer_Data/SDT_Narva_Skirmish_v1_asset
 /SDTrainings/Maps/Narva/Gameplay_Layers/SDT_Narva_Skirmish_v1
