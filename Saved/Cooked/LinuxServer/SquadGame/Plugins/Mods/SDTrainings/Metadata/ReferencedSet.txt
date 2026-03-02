@@ -1,3 +1,4 @@
+/SDTrainings/Gameplay/GameModes/FC_CaptureCurve
 /SDTrainings/Gameplay/GameModes/SDT_GameMode_Logar
 /SDTrainings/Gameplay/GameModes/SDT_GameMode_Skirmish
 /SDTrainings/Maps/Chora/Gameplay_Layer_Data/SDT_Chora_LayerTable

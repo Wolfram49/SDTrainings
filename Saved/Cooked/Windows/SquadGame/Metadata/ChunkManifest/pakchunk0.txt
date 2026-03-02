@@ -1,3 +1,4 @@
+..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Gameplay\GameModes\FC_CaptureCurve
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Gameplay\GameModes\SDT_GameMode_Logar
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Gameplay\GameModes\SDT_GameMode_Skirmish
 ..\Squad\Plugins\Mods\SDTrainings\Saved\Cooked\Windows\SquadGame\Plugins\Mods\SDTrainings\Content\Maps\Chora\Gameplay_Layer_Data\SDT_Chora_LayerTable
